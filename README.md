@@ -1,2 +1,0 @@
-# THC
-Pagina Web THC

@@ -50,6 +50,13 @@ p, span {
   font-weight: 400;
   font-family: "Inconsolata", monospace; }
 
+img {
+  display: block; 
+  margin: 0 auto;
+  max-width: 100%;
+  width: 33%;
+}
+
 span {
   font-size: 18px;
   color: rgba(114, 114, 114, 0.8); }
