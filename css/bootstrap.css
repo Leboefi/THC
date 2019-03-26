@@ -1433,7 +1433,7 @@ img {
 
 .img-responsive {
   display: block;
-  max-width: 33%;
+  max-width: 50%;
   height: auto;
 }
 
