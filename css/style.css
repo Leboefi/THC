@@ -244,7 +244,7 @@ header {
           bottom: 0;
           left: 0;
           right: 0;
-          background: rgba(0, 0, 0, 0.3); }
+          background: rgba(0, 0, 0, 0.1); }
     #colorlib-hero .flexslider .flex-control-nav {
       bottom: 2em;
       z-index: 1000;
@@ -415,7 +415,7 @@ header {
     left: 1em;
     right: 1em;
     content: '';
-    background: rgba(255, 255, 255, 0.9);
+    background: rgba(255, 255, 255, 0.35);
     opacity: 0;
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
@@ -440,7 +440,7 @@ header {
         opacity: 1; } }
     .work-img .desc .tag {
       display: block;
-      color: rgba(0, 0, 0, 0.5);
+      color: rgba(0, 0, 0, 0.05);
       margin-bottom: 15px; }
       @media screen and (max-width: 768px) {
         .work-img .desc .tag {
